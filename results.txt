@@ -67,7 +67,7 @@ Run with .13
 
 chaos.py works just fine!
 
-Changing the value to 2.0:
+Changing the multiplier value to 2.0:
 
 Run with .25
 0.375                                                                                                                                                            
