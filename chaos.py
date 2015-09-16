@@ -1,5 +1,8 @@
 __author__ = 'alicia.williams'
 
+#chaos.py
+#CIS-125 FA 2015
+
 # File: chaos.py
 # A simple program illustrating chaotic behavior.
 multiplier = 2.0

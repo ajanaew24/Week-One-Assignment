@@ -1,5 +1,9 @@
+__author__ = alicia.williams
+Week 1 Results
+CIS-125 FA 2015
+
 Results
-I found out cool things. (this is due 9/18)
+I found out cool things.
 
 Run with .25
 0.73125                                                                                                                                                          
